@@ -1,4 +1,4 @@
-Here is a **professional README.md** for your **Student Performance Prediction project**, ready for your GitHub repository:
+Student Performance Prediction project
 
 ---
 
